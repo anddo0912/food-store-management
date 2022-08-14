@@ -5,13 +5,14 @@
 * Using Java, Java Servlet
 
 ### Screenshot
-### Search Function
-![Search](https://github.com/anddo0912/clothes-management/blob/main/images/SearchPNG.PNG)
-### Update Function
-![Search](https://github.com/anddo0912/clothes-management/blob/main/images/Update.PNG)
-### Create Function
-![Search](https://github.com/anddo0912/clothes-management/blob/main/images/CreatePng.PNG)
-
+### Login Function
+![Login](https://github.com/anddo0912/food-store-management/blob/main/img/login.png)
+### View Item Function
+![ViewItem](https://github.com/anddo0912/food-store-management/blob/main/img/viewListPNG.PNG)
+###  View Cart Function
+![Cart](https://github.com/anddo0912/food-store-management/blob/main/img/cart.PNG)
+###  Checkout Function
+![Checkout](https://github.com/anddo0912/food-store-management/blob/main/img/checkout.png)
 
 
 #### © 2022 anddo0912
